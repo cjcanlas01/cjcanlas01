@@ -1,18 +1,18 @@
 # Hi there! I'm CJ. 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Software+Developer;Based+in+Philippines;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Software+Engineer;Based+in+Philippines;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working as a Software Developer at [GSS Lab Inc.](https://gss-c.biz/)
+- 🔭 I’m currently working as a Software Engineer at [Prism Code Philippines](https://prismcode.tech/)
 - 💻 I'm looking for opportunities!
-- 🌱 I’m currently learning VueJS, NodeJS & Docker.
+- 🌱 I’m currently learning VueJS, TypeScript.
 - 👯 I’m looking to collaborate on anything!
-- ⚡ 2021 Goals:
+- ⚡ 2023 Goals:
   - Contribute and create open source projects.
   - Learn and be confident on using a set of technologies.
 
 ## Technologies
 
-![JS](https://img.icons8.com/color/48/000000/javascript.png)![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
+![JS](https://img.icons8.com/color/48/000000/javascript.png)![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)![VueJS](https://img.icons8.com/color/48/vue-js.png)
 
 <details>
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
