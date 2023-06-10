@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Software+Engineer;Based+in+Philippines;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working as a Software Engineer at [Prism Code Philippines](https://prismcode.tech/)
+- 🔭 I’m currently working as a Software Engineer at phCollab
 - 💻 I'm looking for opportunities!
-- 🌱 I’m currently learning VueJS, TypeScript.
+- 🌱 I’m currently learning Vue.JS, TypeScript, Inertia.JS and Laravel.
 - 👯 I’m looking to collaborate on anything!
 - ⚡ 2023 Goals:
   - Contribute and create open source projects.
